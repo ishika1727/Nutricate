@@ -1,0 +1,119 @@
+body{
+    background-image: url("../assests/b.jpg");
+    background-size: cover;
+}
+
+table{
+    border: 2px solid rgba(0, 99, 0,0.7);
+}
+
+#findfor{
+    width: 50vw;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    border-bottom:1px solid gray;
+    background-color: rgba(255, 255, 255, 0.9);
+    height: 7vh;
+    border-radius: 3px;
+}
+#getjson{
+    background-color: rgb(14, 156, 62);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-bottom:2px solid darkgreen;
+    border-radius: 10px;
+    width: 5%;
+    height: 8vh;   
+    margin: 2%;
+    margin-top: 17%;
+    
+
+}
+#output{
+    
+    align-items: center;
+    margin-top: 8vh;
+    height: 40vh;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding: 2%;
+    width: 50vw;
+
+}
+th{
+    font-size:30px;
+   background-color: rgba(0, 99, 0,0.8);
+   height: 5vh;
+   padding: 2%;
+   padding-left: 4%;
+   width: 5%;
+    
+}
+td{
+    font-size: 25px;
+    height: 5vh;
+    padding: 2%;
+    padding-left: 4%;
+}
+.col1{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.col2{
+    
+    background-color: rgba(180, 253, 180,0.8);
+}
+#again{
+    background-color:  rgba(0, 99, 0,0.9);
+    width: 8vw;
+    height: 6vh;
+    font-size: 18px;
+    border: 2px solid rgb(1, 65, 1);
+    margin-left: 40%;
+    border-radius: 5px;
+}
+.data{
+    display: flex; 
+    justify-content: center;  
+}
+#ipdiv{
+    margin: 2%;
+    margin-top: 17%;
+}
+#one
+{
+    background: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+#one1
+{
+    color: black;
+    border-left: 6px solid black;
+    height: auto;
+    margin-left: 2%;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 3%;
+    padding-left: 1%;
+}
+a:link, a:visited 
+{
+    float: right;
+    color: rgb(51, 51, 51);
+    font-size: 30px;
+    font-weight: bold;
+    padding: 1px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active
+ {
+    color: blue;
+  }
+  #disp{
+    display: flex;  
+}
+#one2{
+    padding-top: 3%; 
+    margin-left: 40vw;
+}
