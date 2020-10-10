@@ -27,6 +27,8 @@ Additionally, checking of metabolic parameters, including glucose, body weight,
 etc. when suitable, just as personal satisfaction, are basic to
 survey the requirement for changes in treatment and to guarantee effective
 results.
+## Upcoming feature:
+Take input of vitamin/mineral to be searched using placards.
 
 ## Admin:
 (Ishika Dubey)(https://github.com/ishika1727)
