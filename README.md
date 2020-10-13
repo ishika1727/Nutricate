@@ -1,18 +1,18 @@
 # Nutricate
 NUTRICATE = NUTRItion + eduCATE
 
-## AIM:
+## Aim:
 NUTRICATE aims to provide an interactive app using Human Computer
 Interaction for diabetic patients to help them maintain a healthy lifestyle.
 
-## SCOPE:
+## Scope:
 Due to increase in cases of diabetes among every age group, there is a need for
 people to live a generic and healthy lifestyle to maintain their diabetic level and
 prevent any risk of future diseases arising from diabetes. Henceforth, we hope
 to develop a fully functioning app which assists people with their and their
 relatives with diabetic problems.
 
-## OBJECTIVE:
+## Objective:
 The basic idea of the app is to provide its user an interface where they can
 search for various foods and fruits and their diabetic information like glucose
 content, etc. It suggests appropriate modifications in diet and monitoring food
